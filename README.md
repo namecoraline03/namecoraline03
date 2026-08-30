@@ -53,8 +53,8 @@ Clean code, clear interfaces, no bloat.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=namecoraline03&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namecoraline03&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 

@@ -13,6 +13,14 @@ I build modern websites and web apps, and I also write logic in Luau. I love cle
 
 ---
 
+### 🚀 My Projects
+
+* **oakwall** — (Dev)
+* **swinoware** — (Owner)
+* **fentora** — (Owner)
+
+---
+
 ### 📫 How to reach me
 
 * **Work Telegram:** [@Alex_Oakwall](https://t.me/Alex_Oakwall)

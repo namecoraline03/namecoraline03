@@ -1,4 +1,4 @@
-### Hi! 👋 I'm a developer who connects the web with game code
+### Hi! 👋 I'm a 15-year-old developer who connects the web with game code
 
 I build modern websites and web apps, and I also write logic in Luau. I love clean code and clear interfaces.
 
@@ -10,16 +10,6 @@ I build modern websites and web apps, and I also write logic in Luau. I love cle
 * **Backend:** Node.js, Express, REST API
 * **Scripting & Game Dev:** Luau (including Roblox Studio)
 * **Tools:** Git, GitHub, Docker
-
----
-
-### 📊 Profile Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lavochnick&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavochnick&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 

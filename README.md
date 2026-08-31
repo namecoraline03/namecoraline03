@@ -4,14 +4,16 @@
 
 **15-year-old developer connecting the web with game code**
 
-I build modern websites and web apps, and write logic in Luau.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Belarus.webp" alt="Belarus" width="20" height="20" /> Minsk, Belarus
+
+I build modern websites and web apps.
 Clean code, clear interfaces, no bloat.
 
 </div>
 
 ---
 
-### 💻 Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Stack
 
 <div align="center">
 
@@ -32,7 +34,7 @@ Clean code, clear interfaces, no bloat.
 
 ---
 
-### 🚀 Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> Projects
 
 <div align="center">
 
@@ -46,7 +48,7 @@ Clean code, clear interfaces, no bloat.
 
 ---
 
-### 📫 Contact
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Outbox%20Tray.webp" alt="Outbox" width="25" height="25" /> Contact
 
 <div align="center">
 

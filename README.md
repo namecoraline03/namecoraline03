@@ -49,17 +49,6 @@ Clean code, clear interfaces, no bloat.
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-
-![GitHub stats](https://github.com/namecoraline03/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![Top Langs](https://github.com/namecoraline03/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-
-</div>
-
----
-
 ### 📫 Contact
 
 <div align="center">

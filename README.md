@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alex 👋
+# Hi, I'm Alex ![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif)
 
 **15-year-old developer connecting the web with game code**
 

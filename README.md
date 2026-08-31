@@ -48,6 +48,19 @@ Clean code, clear interfaces, no bloat.
 
 ---
 
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Stats" width="25" height="25" /> Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats-three-chi-38.vercel.app/api?username=namecoraline03&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-three-chi-38.vercel.app/api/top-langs/?username=namecoraline03&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Outbox%20Tray.webp" alt="Outbox" width="25" height="25" /> Contact
 
 <div align="center">

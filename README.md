@@ -53,8 +53,8 @@ Clean code, clear interfaces, no bloat.
 
 <div align="center">
 
-![GitHub stats](https://raw.githubusercontent.com/namecoraline03/github-stats/generated/generated/overview.svg)
-![Top Langs](https://raw.githubusercontent.com/namecoraline03/github-stats/generated/generated/languages.svg)
+![GitHub stats](https://github.com/namecoraline03/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![Top Langs](https://github.com/namecoraline03/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
